@@ -5,9 +5,9 @@ body {
 p {
     text-decoration: underline;
 }
-h1 #big-head {
+#big-head {
     border-color:aquamarine;
 }
-h2 .small-head {
+.small-head {
     box-shadow: 15px, 2px, 3px black;
 }
