@@ -1,4 +1,7 @@
 body {
     color: blue;
-    
+
+}
+p {
+    text-underline-position: below;
 }
