@@ -3,5 +3,5 @@ body {
 
 }
 p {
-    text-underline-position: below;
+    text-decoration: underline;
 }
