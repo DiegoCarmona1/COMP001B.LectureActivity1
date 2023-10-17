@@ -1,13 +1,13 @@
 body {
     color: blue;
-    border-color:black
+    background-color:black
 
 }
 p {
     text-decoration: underline;
 }
 #big-head {
-    border-color:aquamarine;
+    background-color:aquamarine;
 }
 .small-head {
     box-shadow: 15px 2px 3px black;
